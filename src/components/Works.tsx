@@ -6,7 +6,7 @@ import { Github, Figma, PenTool, Code2 } from 'lucide-react';
 // Import your local images
 import devWork1 from '../images/dev1.png';
 import devWork2 from '../images/ui5.png';
-import devWork3 from '../images/ui2.png';
+import devWork3 from '../images/ui3.png';
 
 import uiWork1 from '../images/ui3.png';
 import uiWork2 from '../images/ui4.png';
